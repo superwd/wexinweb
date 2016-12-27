@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeixinWebformDemo", "WeixinWebformDemo\WeixinWebformDemo.csproj", "{390CB164-9478-4146-B5F6-EA899D851E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEf", "TestEf\TestEf.csproj", "{323A9406-E470-43A3-AC28-6448BA32EEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEf2", "TestEf2\TestEf2.csproj", "{F227156A-01CB-459D-AD16-488694E78CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390CB164-9478-4146-B5F6-EA899D851E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390CB164-9478-4146-B5F6-EA899D851E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390CB164-9478-4146-B5F6-EA899D851E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390CB164-9478-4146-B5F6-EA899D851E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{323A9406-E470-43A3-AC28-6448BA32EEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323A9406-E470-43A3-AC28-6448BA32EEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323A9406-E470-43A3-AC28-6448BA32EEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323A9406-E470-43A3-AC28-6448BA32EEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F227156A-01CB-459D-AD16-488694E78CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F227156A-01CB-459D-AD16-488694E78CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F227156A-01CB-459D-AD16-488694E78CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F227156A-01CB-459D-AD16-488694E78CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
