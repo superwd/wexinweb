@@ -28,5 +28,13 @@ namespace TestEf2
         public string EMAIL { get; set; }
         public string NUMBER { get; set; }
         public string PHONE { get; set; }
+        public string PROVINCE { get; set; }
+        public string CITY { get; set; }
+        public string DISTRICT { get; set; }
+        public string ADDR { get; set; }
+        public string SEX { get; set; }
+        public string IDCARD { get; set; }
+        public string EDUCATION { get; set; }
+        public string STTRAIN_ROLE { get; set; }
     }
 }

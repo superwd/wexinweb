@@ -12,15 +12,17 @@ namespace TestEf2
     using System;
     using System.Collections.Generic;
     
-    public partial class nj_news
+    public partial class t_opt_stnet_content
     {
-        public string NEWS_ID { get; set; }
-        public string CID { get; set; }
+        public string CONTENT_ID { get; set; }
         public string TITLE { get; set; }
-        public string CONTENTS { get; set; }
-        public string SOURCE { get; set; }
-        public string COUNTS { get; set; }
-        public string CREATETIME { get; set; }
-        public string FOOTER { get; set; }
+        public string CID { get; set; }
+        public string INFOSOURCE { get; set; }
+        public string PUBDATE { get; set; }
+        public string TEXT { get; set; }
+        public string CREATEDATE { get; set; }
+        public string CREATEUSER { get; set; }
+        public string DELESTATE { get; set; }
+        public string IMGURL { get; set; }
     }
 }

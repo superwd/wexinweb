@@ -25,7 +25,7 @@ namespace TestEf2
             throw new UnintentionalCodeFirstException();
         }
     
-        public DbSet<nj_news> nj_news { get; set; }
         public DbSet<sys_user> sys_user { get; set; }
+        public DbSet<t_opt_stnet_content> t_opt_stnet_content { get; set; }
     }
 }
